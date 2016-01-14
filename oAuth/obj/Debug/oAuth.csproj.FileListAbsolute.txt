@@ -1,0 +1,42 @@
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\oAuth.exe.config
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\oAuth.exe
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\oAuth.pdb
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\EntityFramework.dll
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.Owin.dll
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.Owin.Hosting.dll
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Newtonsoft.Json.dll
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Owin.dll
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\System.Web.Http.dll
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\System.Web.Http.Owin.dll
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\EntityFramework.xml
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.Owin.xml
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.Owin.Hosting.xml
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\Newtonsoft.Json.xml
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\System.Web.Http.xml
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\bin\Debug\System.Web.Http.Owin.xml
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\obj\Debug\oAuth.csprojResolveAssemblyReference.cache
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\obj\Debug\oAuth.exe
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\obj\Debug\oAuth.pdb
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\obj\Debug\oAuth.Migrations.Init.resources
+c:\users\alexandre\documents\visual studio 2015\Projects\oAuth\oAuth\obj\Debug\oAuth.csproj.GenerateResource.Cache
+D:\OneDrive\M2\ASPNET\oAuth\oAuth\oAuth\bin\Debug\oAuth.exe.config
+D:\OneDrive\M2\ASPNET\oAuth\oAuth\oAuth\obj\Debug\oAuth.exe
+D:\OneDrive\M2\ASPNET\oAuth\oAuth\oAuth\obj\Debug\oAuth.pdb
